@@ -1,4 +1,4 @@
-name: Python application
+name: IA and AA Demo
 
 on:
   workflow_dispatch:
